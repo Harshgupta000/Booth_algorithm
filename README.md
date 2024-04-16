@@ -1,0 +1,1 @@
+Booth's algorithm is a multiplication algorithm designed for efficient binary multiplication in digital circuits, commonly used in processors like CPUs and GPUs. It reduces the number of additions and subtractions compared to traditional binary multiplication methods, making it highly efficient for hardware implementations.
